@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/910450895128629607/b9f34b5542e148439870ea430d9c7245/artifacts
+end_time: 1757168380089
+entry_point_name: ''
+experiment_id: '910450895128629607'
+lifecycle_stage: active
+run_id: b9f34b5542e148439870ea430d9c7245
+run_name: sedate-cod-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757168307079
+status: 3
+tags: []
+user_id: Admin

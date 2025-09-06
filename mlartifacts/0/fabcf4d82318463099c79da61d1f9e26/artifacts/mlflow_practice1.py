@@ -22,7 +22,6 @@ n_estimators = 10
 
 # starting an mlflow run
 mlflow.set_tracking_uri('http://localhost:5000')
-mlflow.set_experiment("Experiment 1")
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth,n_estimators=n_estimators)
     rf.fit(X_train,y_train)
@@ -34,10 +33,9 @@ with mlflow.start_run():
     mlflow.log_param('n_estimators',n_estimators)
 
 # plotting a confusion matrics
-    cm = confusion_matrix(y_test, y_pred)
-    disp = metrics.ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=wine.target_names)
-    disp.plot(cmap=plt.cm.Blues)
-
+    confusion_matric = confusion_matrix(y_test,y_pred)
+    plt.figure(figsize=(6,6))
+    cm_display = metrics.ConfusionMatrixDisplay(confusion_matrix = confusion_matric, display_labels = [0, 1])
     plt.ylabel('Actual')
     plt.xlabel('Predicted')
     plt.title('Confusion Matrix')

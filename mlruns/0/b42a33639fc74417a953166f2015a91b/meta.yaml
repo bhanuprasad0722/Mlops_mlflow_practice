@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b42a33639fc74417a953166f2015a91b/artifacts
+end_time: 1757168026017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b42a33639fc74417a953166f2015a91b
+run_name: nervous-carp-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757168013767
+status: 3
+tags: []
+user_id: Admin

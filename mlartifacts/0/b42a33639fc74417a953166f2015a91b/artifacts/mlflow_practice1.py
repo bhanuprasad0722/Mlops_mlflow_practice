@@ -22,7 +22,6 @@ n_estimators = 10
 
 # starting an mlflow run
 mlflow.set_tracking_uri('http://localhost:5000')
-mlflow.set_experiment("Experiment 1")
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth,n_estimators=n_estimators)
     rf.fit(X_train,y_train)

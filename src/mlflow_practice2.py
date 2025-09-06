@@ -6,7 +6,10 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score,confusion_matrix
 import matplotlib.pyplot as plt 
 from sklearn import metrics
+import dagshub
+dagshub.init(repo_owner='bhanuprasad0722', repo_name='Mlops_mlflow_practice', mlflow=True)
 
+mlflow.set_tracking_uri("https://dagshub.com/bhanuprasad0722/Mlops_mlflow_practice.mlflow")
 
 #loading the data
 wine = load_wine()
@@ -21,8 +24,6 @@ max_depth = 7
 n_estimators = 10
 
 # starting an mlflow run
-mlflow.set_tracking_uri('http://localhost:5000')
-mlflow.set_experiment("Experiment 1")
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth,n_estimators=n_estimators)
     rf.fit(X_train,y_train)
@@ -51,7 +52,9 @@ with mlflow.start_run():
     mlflow.set_tags({"Author": 'Bhanuprasad', "Project": "Wine Classification"})
 
     # Log the model
-    mlflow.sklearn.log_model(rf, "Random-Forest-Model")
+    mlflow.sklearn.save_model(rf, "Random-Forest-Model")
+    mlflow.log_artifact("Random-Forest-Model")
+
 
 print(accuracy)
 
