@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Mlops_mlflow_practice/mlruns/189105734444524041/3efa747e48984652b83e2dc51dc5f447/artifacts
+end_time: 1757173867005
+entry_point_name: ''
+experiment_id: '189105734444524041'
+lifecycle_stage: active
+run_id: 3efa747e48984652b83e2dc51dc5f447
+run_name: flawless-shad-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757173866965
+status: 3
+tags: []
+user_id: Admin

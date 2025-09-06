@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Mlops_mlflow_practice/mlruns/189105734444524041/6881442b0a1346ccac4f2369c57a22ce/artifacts
+end_time: 1757173866831
+entry_point_name: ''
+experiment_id: '189105734444524041'
+lifecycle_stage: active
+run_id: 6881442b0a1346ccac4f2369c57a22ce
+run_name: fearless-goose-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757173866769
+status: 3
+tags: []
+user_id: Admin

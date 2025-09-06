@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Mlops_mlflow_practice/mlruns/189105734444524041/1a5a7b08a6574e17b7b16373c00b3514/artifacts
+end_time: 1757173893876
+entry_point_name: ''
+experiment_id: '189105734444524041'
+lifecycle_stage: active
+run_id: 1a5a7b08a6574e17b7b16373c00b3514
+run_name: chill-grouse-837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757173858013
+status: 3
+tags: []
+user_id: Admin

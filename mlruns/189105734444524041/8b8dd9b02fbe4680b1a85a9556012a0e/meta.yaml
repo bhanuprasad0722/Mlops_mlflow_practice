@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Mlops_mlflow_practice/mlruns/189105734444524041/8b8dd9b02fbe4680b1a85a9556012a0e/artifacts
+end_time: 1757173867518
+entry_point_name: ''
+experiment_id: '189105734444524041'
+lifecycle_stage: active
+run_id: 8b8dd9b02fbe4680b1a85a9556012a0e
+run_name: bouncy-shrimp-784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757173867462
+status: 3
+tags: []
+user_id: Admin

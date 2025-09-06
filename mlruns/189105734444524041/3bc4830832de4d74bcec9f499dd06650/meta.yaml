@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Mlops_mlflow_practice/mlruns/189105734444524041/3bc4830832de4d74bcec9f499dd06650/artifacts
+end_time: 1757173866641
+entry_point_name: ''
+experiment_id: '189105734444524041'
+lifecycle_stage: active
+run_id: 3bc4830832de4d74bcec9f499dd06650
+run_name: invincible-ox-694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757173866594
+status: 3
+tags: []
+user_id: Admin

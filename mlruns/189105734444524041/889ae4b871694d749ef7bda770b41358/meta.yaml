@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Mlops_mlflow_practice/mlruns/189105734444524041/889ae4b871694d749ef7bda770b41358/artifacts
+end_time: 1757173867384
+entry_point_name: ''
+experiment_id: '189105734444524041'
+lifecycle_stage: active
+run_id: 889ae4b871694d749ef7bda770b41358
+run_name: enthused-goose-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757173867337
+status: 3
+tags: []
+user_id: Admin

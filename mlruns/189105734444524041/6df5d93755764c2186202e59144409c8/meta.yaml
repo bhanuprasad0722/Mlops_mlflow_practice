@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Mlops_mlflow_practice/mlruns/189105734444524041/6df5d93755764c2186202e59144409c8/artifacts
+end_time: 1757173866878
+entry_point_name: ''
+experiment_id: '189105734444524041'
+lifecycle_stage: active
+run_id: 6df5d93755764c2186202e59144409c8
+run_name: charming-shoat-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757173866831
+status: 3
+tags: []
+user_id: Admin

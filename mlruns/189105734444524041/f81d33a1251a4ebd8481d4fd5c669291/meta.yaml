@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Mlops_mlflow_practice/mlruns/189105734444524041/f81d33a1251a4ebd8481d4fd5c669291/artifacts
+end_time: 1757173866579
+entry_point_name: ''
+experiment_id: '189105734444524041'
+lifecycle_stage: active
+run_id: f81d33a1251a4ebd8481d4fd5c669291
+run_name: traveling-chimp-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757173866547
+status: 3
+tags: []
+user_id: Admin

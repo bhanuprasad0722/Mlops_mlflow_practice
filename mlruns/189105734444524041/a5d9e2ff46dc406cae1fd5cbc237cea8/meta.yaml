@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Mlops_mlflow_practice/mlruns/189105734444524041/a5d9e2ff46dc406cae1fd5cbc237cea8/artifacts
+end_time: 1757173866469
+entry_point_name: ''
+experiment_id: '189105734444524041'
+lifecycle_stage: active
+run_id: a5d9e2ff46dc406cae1fd5cbc237cea8
+run_name: selective-crow-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757173866422
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Mlops_mlflow_practice/mlruns/189105734444524041/47858617673d40a9988ac597c64e8201/artifacts
+end_time: 1757173866407
+entry_point_name: ''
+experiment_id: '189105734444524041'
+lifecycle_stage: active
+run_id: 47858617673d40a9988ac597c64e8201
+run_name: orderly-foal-909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757173866360
+status: 3
+tags: []
+user_id: Admin

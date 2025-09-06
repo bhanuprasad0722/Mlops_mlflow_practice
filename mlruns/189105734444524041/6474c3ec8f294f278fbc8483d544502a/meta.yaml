@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Mlops_mlflow_practice/mlruns/189105734444524041/6474c3ec8f294f278fbc8483d544502a/artifacts
+end_time: 1757173866704
+entry_point_name: ''
+experiment_id: '189105734444524041'
+lifecycle_stage: active
+run_id: 6474c3ec8f294f278fbc8483d544502a
+run_name: grandiose-sheep-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757173866657
+status: 3
+tags: []
+user_id: Admin

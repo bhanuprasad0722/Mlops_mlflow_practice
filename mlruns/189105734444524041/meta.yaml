@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Admin/Desktop/Mlops_mlflow_practice/mlruns/189105734444524041
+creation_time: 1757173857716
+experiment_id: '189105734444524041'
+last_update_time: 1757173857716
+lifecycle_stage: active
+name: breast_cancer_hypertuning

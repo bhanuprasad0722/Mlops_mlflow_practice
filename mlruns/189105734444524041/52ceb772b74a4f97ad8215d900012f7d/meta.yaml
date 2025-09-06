@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Mlops_mlflow_practice/mlruns/189105734444524041/52ceb772b74a4f97ad8215d900012f7d/artifacts
+end_time: 1757173866769
+entry_point_name: ''
+experiment_id: '189105734444524041'
+lifecycle_stage: active
+run_id: 52ceb772b74a4f97ad8215d900012f7d
+run_name: casual-bird-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757173866721
+status: 3
+tags: []
+user_id: Admin

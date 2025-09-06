@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Mlops_mlflow_practice/mlruns/189105734444524041/c25d72dcac99407a83c04a3f5dfb72aa/artifacts
+end_time: 1757173867068
+entry_point_name: ''
+experiment_id: '189105734444524041'
+lifecycle_stage: active
+run_id: c25d72dcac99407a83c04a3f5dfb72aa
+run_name: bouncy-fly-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757173867021
+status: 3
+tags: []
+user_id: Admin
