@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/651cdfc12b6e4289a6bec312328397a4/artifacts
+end_time: 1757139106408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 651cdfc12b6e4289a6bec312328397a4
+run_name: carefree-jay-638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757139106179
+status: 3
+tags: []
+user_id: Admin
